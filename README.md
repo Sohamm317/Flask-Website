@@ -110,4 +110,4 @@ Open your browser and navigate to `http://127.0.0.1:5000/`.
 
 ## Acknowledgments
 
-- Built following [Corey Schafer's Flask Tutorial Series](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5E61548pUJG-pC29).
+- Built following [Corey Schafer's Flask Tutorial Series](https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&si=9jWo-jlD9f-6Sxno).
