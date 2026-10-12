@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.vscode/
+flaskblog/static/profile_pics/
+instance/
+Pipfile
+Pipfile.lock
