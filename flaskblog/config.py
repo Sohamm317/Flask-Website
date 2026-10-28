@@ -12,3 +12,6 @@ class Config:
     MAIL_USE_SSL = True
     MAIL_USERNAME = os.environ.get('EMAIL_USER')
     MAIL_PASSWORD = os.environ.get('EMAIL_PASS')
+    LLM_API_KEY = os.environ.get('LLM_API_KEY')
+    LLM_BASE_URL = os.environ.get('LLM_BASE_URL')
+    LLM_MODEL = os.environ.get('LLM_MODEL')
